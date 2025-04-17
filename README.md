@@ -40,7 +40,7 @@ ___
 
 <div align="center">
   <h3>Tech</h3>
-  <p><pre>Current Distros >> Kali, Debian, Void, Windows 11</pre></p>
+  <p><pre>Current Distros >> Debian, Void, Windows 11</pre></p>
   <p><pre>Future Distros >> Nix, TinyCore</pre></p>
   <p><pre>Virtualization >> WSL</pre></p>
   <p><pre>IDEs >> VSCodium, Pycharm, NeoVim</pre></p>
