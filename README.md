@@ -51,8 +51,8 @@ ___
 <div align="center">
   <h3>Languages</h3>
   <p><pre>Sorted by fluency, higher is better</pre></p>
-  <p><pre>Level 3 - Python, HTML, CSS, Bash</pre></p>
-  <p><pre>Level 2 - C++, Fortran, Java, Rust</pre></p>
+  <p><pre>Level 3 - Python, HTML, CSS, C++</pre></p>
+  <p><pre>Level 2 - Bash, Fortran, Java, Rust</pre></p>
   <p><pre> Level 1 - Batch</pre></p>
 </div>
 
